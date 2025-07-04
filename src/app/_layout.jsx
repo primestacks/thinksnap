@@ -7,6 +7,7 @@ const RootLayout = () => {
         headerStyle: {
           backgroundColor: "#301934", // Header background color
         },
+        headerShown: true, // Hide the header for this layout
 
         headerTitleAlign: "center", // ✅ Center the title
         headerTintColor: "#fff", // Back button and title color
